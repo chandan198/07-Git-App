@@ -1,5 +1,5 @@
 public class Reader{
 	public void readBook(){
-System.out.println("Reading done...")
+System.out.println("Reading done...");
 }
 }
